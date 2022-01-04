@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Evemsi
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Phyton And Batch
+- 💞️ I’m looking to collaborate on AshKetchumPL
+-Discord: https://discord.gg/EwhQJKSVZF
