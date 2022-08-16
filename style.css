@@ -1,0 +1,40 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 1000px;
+    margin: 10px;
+}
+
+
+.square
+{
+   width: 50%;
+   float: left;
+}
+
+#logo
+{
+    float: left;
+    font-size: 20px;
+    width: 600px;
+}
+
+#list
+{
+    float: left;
+    font-size: 20px;
+}
